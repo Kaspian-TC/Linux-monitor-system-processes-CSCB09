@@ -1,5 +1,7 @@
-Assignment1 information
+Linux monitor system processes information
 By: Kaspian Thoft-Christensen
+
+This code works on Linux (and macOS but this has not been tested)
 
 How to compile code:
 gcc assignment1.c
